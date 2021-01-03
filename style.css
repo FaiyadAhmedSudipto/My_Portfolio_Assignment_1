@@ -1,0 +1,161 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 70px;
+}
+h2{
+    font-size: 40px;
+    font-weight: 180;
+}
+h3{
+    font-size: 25px;
+    font-weight: 150;
+}
+h4{
+    font-size: 20px;
+    font-weight: 100;
+}
+h4{
+    font-size: 20px;
+    font-weight:80;
+}
+p{
+    color: dimgray;
+}
+.orange-highlight{
+    color: orange;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    margin-bottom: 5%;
+}
+.half-width-ultra{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    text-align: ;
+}
+.half-width img{
+    width: 75%;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(lightSalmon, tomato);
+    padding: 15px 20px;
+    border-radius: 5px;
+    color:ghostwhite;
+    font-weight: 700;
+}
+
+.single-experience{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 80%;
+    background-color: white;
+}
+.working-resourses{
+    background-image: url("images/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+footer p{
+    text-align: center;
+    font-size: 12px;
+}
+.third-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.third-width img{
+    width: 75%;
+}
+.card{
+    width: 20%;
+    display: inline-block;
+    background-color: whitesmoke;
+    box-shadow: 2px 2px 20px black;
+    border-radius: 5px; 
+    margin-left: 5.5%;
+    margin-right: 5%;
+    align-content: center;
+    padding: 10px 10px 10px;
+}
+.image img{
+ width: 100%;
+ border-top-right-radius: 5px;
+ border-top-left-radius: 5px;
+}
+.title{
+    text-align: center;
+    padding: 10px;
+ 
+}
+.description{
+    padding: 3px;
+    text-align: center;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+.align{
+    display:inline-block;
+    align-content: center;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.Botton{
+    width:100px;
+    height:30px;
+    background-color:#FFFFFF;
+    border:none;
+    outline: none;
+    border-radius:5px;
+}
+.Final img{
+    width: 50%;
+    margin-left: 25px;
+    margin-left: 25%;
+    margin-top: 300px;
+}
+.link-button-new{
+    text-decoration: none;
+    background-image: linear-gradient(lightSalmon, tomato);
+    padding: 15px 20px;
+    border-radius: 5px;
+    color:ghostwhite;
+    font-weight: 700;
+    margin-left: 55%;
+    margin-right: 35%;
+}
+ul{
+    width:auto;
+    float: right;
+    margin-top: 8px;
+}
+li{
+    display: inline-block;
+    padding: 15px 30px;
+}
+a{
+    text-align:left ;
+    color: black;
+    text-decoration: none;
+}
+.Navigation{
+    height: 2px;
+    overflow: hidden;
+}
+
+
